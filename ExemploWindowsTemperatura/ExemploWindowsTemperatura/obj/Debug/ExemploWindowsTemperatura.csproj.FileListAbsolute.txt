@@ -1,0 +1,8 @@
+C:\Users\alexa\OneDrive\Documentos\SharpDevelop Projects\ExemploWindowsTemperatura\ExemploWindowsTemperatura\bin\Debug\ExemploWindowsTemperatura.exe.config
+C:\Users\alexa\OneDrive\Documentos\SharpDevelop Projects\ExemploWindowsTemperatura\ExemploWindowsTemperatura\bin\Debug\ExemploWindowsTemperatura.exe
+C:\Users\alexa\OneDrive\Documentos\SharpDevelop Projects\ExemploWindowsTemperatura\ExemploWindowsTemperatura\bin\Debug\ExemploWindowsTemperatura.pdb
+C:\Users\alexa\OneDrive\Documentos\SharpDevelop Projects\ExemploWindowsTemperatura\ExemploWindowsTemperatura\obj\Debug\ExemploWindowsTemperatura.csprojResolveAssemblyReference.cache
+C:\Users\alexa\OneDrive\Documentos\SharpDevelop Projects\ExemploWindowsTemperatura\ExemploWindowsTemperatura\obj\Debug\ExemploWindowsTemperatura.MainForm.resources
+C:\Users\alexa\OneDrive\Documentos\SharpDevelop Projects\ExemploWindowsTemperatura\ExemploWindowsTemperatura\obj\Debug\ExemploWindowsTemperatura.csproj.GenerateResource.Cache
+C:\Users\alexa\OneDrive\Documentos\SharpDevelop Projects\ExemploWindowsTemperatura\ExemploWindowsTemperatura\obj\Debug\ExemploWindowsTemperatura.exe
+C:\Users\alexa\OneDrive\Documentos\SharpDevelop Projects\ExemploWindowsTemperatura\ExemploWindowsTemperatura\obj\Debug\ExemploWindowsTemperatura.pdb
