@@ -1,0 +1,7 @@
+C:\Users\Polimig\Documents\SharpDevelop Projects\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csprojResolveAssemblyReference.cache
+C:\Users\Polimig\Documents\SharpDevelop Projects\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.MainForm.resources
+C:\Users\Polimig\Documents\SharpDevelop Projects\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.GenerateResource.Cache
+C:\Users\Polimig\Documents\SharpDevelop Projects\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe
+C:\Users\Polimig\Documents\SharpDevelop Projects\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.pdb
+C:\Users\Polimig\Documents\SharpDevelop Projects\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.exe
+C:\Users\Polimig\Documents\SharpDevelop Projects\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.pdb
